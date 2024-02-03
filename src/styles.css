@@ -4,9 +4,12 @@
   margin:0;
   border:0;
   box-sizing: border-box;
-  color: antiquewhite;
+  color: #afd0f8 ;
 }
 
 body {
-  background-color: #1f1147;
+  background-image: url('./assets/imgs/gifbody.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  /*Isso mantém a imagem fixa enquanto a página rola */
+  background-size: cover; /* Isso ajusta o tamanho da imagem para cobrir todo o corpo */
 }

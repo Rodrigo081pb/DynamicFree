@@ -1,55 +1,117 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"O quanto você me conhece ?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Em que ano eu nasci ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Eu nasci no ano de 2004", "alias":"A"},
+        {"id": 2, "name":"Eu nasci no ano de 2003", "alias":"B"},
+        {"id": 3, "name":"Eu nasci no ano de 23/04/2005", "alias":" B"},
+        {"id": 4, "name":"Eu nasci no ano de 1984", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual meu Super-Héroi favorito ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Flash", "alias":"B"},
+        {"id": 2, "name":"Batman", "alias":"A"},
+        {"id": 3, "name":"Super-man", "alias":"B"},
+        {"id": 4, "name":"Wolverine", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "O que eu mais odeio ?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Ver o náutico perder ?", "alias":"B"},
+        {"id": 2, "name":"Injustiça", "alias":"A"},
+        {"id": 3, "name":"Falsidade", "alias":"A"},
+        {"id": 4, "name":"Quando algo não da certo", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual é o meu maior foco ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Ficar rico", "alias":"B"},
+        {"id": 2, "name":"Academia", "alias":"B"},
+        {"id": 3, "name":"Dar orgulho a minha mãe", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "O que eu escolheria ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Morar fora do Brasil", "alias":"A"},
+        {"id": 2, "name":"Viajar o mundo inteiro", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "O que eu prefiro ?",
+      "options":[
+        {"id": 1, "name":"Ir a praia", "alias":"A"},
+        {"id": 2, "name":"Sair com meus cachorros", "alias":"B"},
+        {"id": 3, "name":"Ir ao jogo do náutico", "alias":"B"},
+        {"id": 4, "name":"Ficar em casa programando", "alias":"B"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual é o meu prato favorito ?",
+      "options": [
+        {"id": 1, "name": "Pizza", "alias": "B"},
+        {"id": 2, "name": "Lasanha", "alias": "B"},
+        {"id": 3, "name": "Churrasco", "alias": "B"},
+        {"id": 4, "name": "Pirão", "alias": "A"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Em qual área profissional eu estudo ?",
+      "options": [
+        {"id": 1, "name": "Tecnologia", "alias": "A"},
+        {"id": 2, "name": "Saúde", "alias": "B"},
+        {"id": 3, "name": "Educação", "alias": "B"},
+        {"id": 4, "name": "Negócios", "alias": "B"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "O que eu gosto de fazer nas horas vagas ?",
+      "options": [
+        {"id": 1, "name": "Ler", "alias": "B"},
+        {"id": 2, "name": "Assistir filmes", "alias": "B"},
+        {"id": 3, "name": "Praticar esportes", "alias": "B"},
+        {"id": 4, "name": "Ver melhores momentos do menino ney", "alias": "A"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Qual é o meu estilo musical favorito ?",
+      "options": [
+        {"id": 1, "name": "Trap", "alias": "B"},
+        {"id": 2, "name": "Pop", "alias": "B"},
+        {"id": 3, "name": "Hip-Hop", "alias": "B"},
+        {"id": 4, "name": "Eletrônico", "alias": "B"},
+        {"id": 5, "name": "Gosto de tudo um pouco", "alias": "A"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quais são meus animais de estimação ?",
+      "options": [
+        {"id": 1, "name": "Hamster", "alias": "B"},
+        {"id": 2, "name": "Cachorro,gato e um hamster", "alias": "B"},
+        {"id": 3, "name": "Cachorro", "alias": "A"},
+        {"id": 4, "name": "Gato", "alias": "B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente conhece uma parte de mim",
+    "B": "Você não me conhece"
   }
 }
